@@ -1,1 +1,2 @@
 # Employee-Management-System
+Employee Management Application helps us to maintain the details of employees working in an organization.Using this application, we can easily create, add, update, access, delete, and view an employee’s data as required. Also, it can be accessed only by authorized persons unlike when maintained in records as physical information. The chances of losing the data are insignificant. Thus, the data is confidential and secured.
